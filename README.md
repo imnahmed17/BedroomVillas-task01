@@ -1,6 +1,9 @@
 # Task 01
 A webpage containing navbar and some room cards
 
+## Live Link
+Hosted in GitHub -> [BedroomVillas-task01](https://imnahmed17.github.io/BedroomVillas-task01/)
+
 ## Features
 * navbar with menu icon, logo, input fields and button
 * after mouse hover on menu icon, a dropdown menu list will be displayed
